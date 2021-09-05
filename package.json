@@ -1,6 +1,6 @@
 {
   "name": "aharvard",
-  "version": "1.5.0",
+  "version": "2.0.0",
   "description": "Get to know Andrew Harvard via npm. Just run `npx aharvard`",
   "bin": {
     "aharvard": "index.js"
